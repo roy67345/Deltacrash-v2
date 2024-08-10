@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "delta",
+  "author": "ROY",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
